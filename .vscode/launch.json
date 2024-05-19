@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "$RERX7E2",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3279828204-3431305312-4068706484-1001\\$RERX7E2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RERX7E2 (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3279828204-3431305312-4068706484-1001\\$RERX7E2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RERX7E2 (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3279828204-3431305312-4068706484-1001\\$RERX7E2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "$RK0RO47",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3279828204-3431305312-4068706484-1001\\$RK0RO47",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "$RK0RO47 (profile mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3279828204-3431305312-4068706484-1001\\$RK0RO47",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "$RK0RO47 (release mode)",
+            "cwd": "$Recycle.Bin\\S-1-5-21-3279828204-3431305312-4068706484-1001\\$RK0RO47",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
